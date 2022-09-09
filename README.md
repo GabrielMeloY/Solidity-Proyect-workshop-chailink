@@ -1,4 +1,4 @@
-## About this repository
+# About this repository
 
 This is a complete NFT Marketplace with scripts, tests and deploys. Built with Solidity using Hardhat.
 
